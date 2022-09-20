@@ -1,0 +1,26 @@
+<annotation>
+  <folder>input</folder>
+  <filename>44_crop1.jpg</filename>
+  <path>D:\FAKS\DIPLOMSKI_RAD\OpenLabeling-master\OpenLabeling-master\main\input\44_crop1.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>1024</width>
+    <height>1024</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>varroa</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>881</xmin>
+      <ymin>256</ymin>
+      <xmax>901</xmax>
+      <ymax>280</ymax>
+    </bndbox>
+  </object>
+</annotation>
